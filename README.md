@@ -7,7 +7,7 @@ wordpressの記事作成画面(投稿画面)に3×3の表を追加するクイ�
 # how to use
 
 ```
-rm -rdf .git
+rm -rf .git
 ```
 
 をした後、<br>
