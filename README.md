@@ -1,5 +1,7 @@
 # wp-add_table
 
+![button_img](https://github.com/ryo1107/wp-add_table/blob/master/img/table_button_img.png)
+
 wordpressの記事作成画面(投稿画面)に3×3の表を追加するクイックタグ(ボタン)を追加するpluginです
 
 # how to use
